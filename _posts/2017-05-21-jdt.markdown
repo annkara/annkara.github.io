@@ -25,4 +25,4 @@ Antifragileなシステム、大きな変化が生じた際に大きな利益を
   
 ヒントをヒントで終わらせないためにも、今後も継続的にIN/OUTを繰り返していけたらと思います。  
   
-[@kawashimaさんの当日の資料はこちら](https://www.slideshare.net/kawasima/antifragile-java-java-day-tokyo-2017-d1e1)
+[@kawasimaさんの当日の資料はこちら](https://www.slideshare.net/kawasima/antifragile-java-java-day-tokyo-2017-d1e1)
