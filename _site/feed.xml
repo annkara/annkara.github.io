@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-27T20:49:28+09:00</updated><id>http://localhost:4000/</id><title type="html">ポエム的な何か</title><subtitle>ひたすらポエム的な何かを書き綴っていけたらと思います。
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-27T20:51:24+09:00</updated><id>http://localhost:4000/</id><title type="html">ポエム的な何か</title><subtitle>ひたすらポエム的な何かを書き綴っていけたらと思います。
 </subtitle><entry><title type="html">本質的な課題に取り組むことについての困難さ</title><link href="http://localhost:4000/jekyll/update/2017/06/26/about_essential_subject.html" rel="alternate" type="text/html" title="本質的な課題に取り組むことについての困難さ" /><published>2017-06-26T00:00:00+09:00</published><updated>2017-06-26T00:00:00+09:00</updated><id>http://localhost:4000/jekyll/update/2017/06/26/about_essential_subject</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/06/26/about_essential_subject.html">&lt;p&gt;&lt;a href=&quot;https://twitter.com/naoya_ito&quot;&gt;伊藤直也&lt;/a&gt;さんの&lt;a href=&quot;https://speakerdeck.com/naoya/ji-shu-de-fu-zhai-toxiang-kihe-u&quot;&gt;技術的負債と向き合う&lt;/a&gt;を読んで考えたことと、仕事でシステム基盤としてこれからどのような課題に取り組むか、ということを考えたときに思ったことをまとめる。&lt;/p&gt;
 
 &lt;h4 id=&quot;前段としての自分の略歴&quot;&gt;前段としての自分の略歴&lt;/h4&gt;
@@ -33,7 +33,7 @@
 うちと違うのはその大きすぎる問題にちゃんと向き合い続けているということと、メインフレームのレガシーコードを扱っていない点で、
 まぁそれこそが圧倒的に異なる点なのだけど。&lt;/p&gt;
 
-&lt;p&gt;とまぁタイトルとは全然内容があってないかもしれないけど、コードの問題というのがシステム開発なかでは本質的な課題なのではないかと思いましたっていうお話で、
+&lt;p&gt;とまぁタイトルとは全然内容があってないかもしれないけど、コードの問題というのがシステム開発のなかでは本質的な課題なのではないかと思いましたっていうお話で、
 このことについては継続的に考えていきたいと思う。&lt;/p&gt;</content><author><name></name></author><summary type="html">伊藤直也さんの技術的負債と向き合うを読んで考えたことと、仕事でシステム基盤としてこれからどのような課題に取り組むか、ということを考えたときに思ったことをまとめる。</summary></entry><entry><title type="html">Java Day Tokyoで刺さった話</title><link href="http://localhost:4000/2017/05/21/jdt.html" rel="alternate" type="text/html" title="Java Day Tokyoで刺さった話" /><published>2017-05-21T00:00:00+09:00</published><updated>2017-05-21T00:00:00+09:00</updated><id>http://localhost:4000/2017/05/21/jdt</id><content type="html" xml:base="http://localhost:4000/2017/05/21/jdt.html">&lt;p&gt;Java Day Tokyoに参加してきましたので個人的に刺さった話をまとめておきます。&lt;/p&gt;
 
 &lt;h3 id=&quot;java-day-tokyo&quot;&gt;Java Day Tokyo&lt;/h3&gt;
