@@ -1,7 +1,7 @@
-baseURL = "https://annkara.github.io"
+baseURL = "https://annkara.io"
 languageCode = "ja"
 defaultContentLanguage = "ja"
-title = "annkara's page"
+title = "annkara.io"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
